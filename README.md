@@ -25,15 +25,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![C Language](https://img.shields.io/badge/C%20Language-%23A8B9CC?logo=c&logoColor=white&labelColor=%23A8B9CC)](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)                
 
-### 👩‍💻 Estatísticas
-<div align="center">
-  <a href="https://github.com/hellmore">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellmore&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellmore&layout=compact&langs_count=7&theme=aura"/>
-</div>
-
-
-
 ##
 
 ### 🗣 Contato
