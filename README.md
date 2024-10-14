@@ -7,6 +7,12 @@
 
 - 💼 Trabalhando atualmente como **Estagiária de Manutenção e Suporte em TI** na [Fatec Campinas](https://fateccampinas.com.br/site/)
 
+### 🤓 Confira alguns dos meu projetos!
+
+- 💾 [PetBrivajhy - A box do seu pet](https://github.com/Hellmore/pet_crud)
+- 💾 [Jogo da Forca!](https://github.com/Hellmore/forca)
+- 💾 [LaslesVPN](https://github.com/Hellmore/lasles-vpn?tab=readme-ov-file)
+
 ### 🚀 Minhas Skills
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
